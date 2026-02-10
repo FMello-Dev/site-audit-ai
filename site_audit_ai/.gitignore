@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+
+# Ambientes Virtuais
+venv/
+.env
+
+# Variáveis de ambiente (Segurança)
+.env
+
+.DS_Store
